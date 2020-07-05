@@ -4,7 +4,7 @@
 
 > 프로젝트 소개
 
-<img src="https://user-images.githubusercontent.com/34119701/86530836-28dd1b00-bef7-11ea-947e-f450672b504d.PNG">
+<img src="https://user-images.githubusercontent.com/34119701/86530902-ccc6c680-bef7-11ea-91c0-6ce48e6813ce.PNG">
 <img src="https://user-images.githubusercontent.com/34119701/86530837-2aa6de80-bef7-11ea-8ce6-1e4ecdd43c9b.PNG">
 <img src="https://user-images.githubusercontent.com/34119701/86530838-2aa6de80-bef7-11ea-959f-1f8c56fe828e.PNG">
 <img src="https://user-images.githubusercontent.com/34119701/86530839-2b3f7500-bef7-11ea-8bab-9c44650401b2.PNG">
