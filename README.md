@@ -11,3 +11,10 @@
 <img src="https://user-images.githubusercontent.com/34119701/86530840-2b3f7500-bef7-11ea-97b1-53e12f96a5b9.PNG">
 <img src="https://user-images.githubusercontent.com/34119701/86530841-2bd80b80-bef7-11ea-870d-0caded58fe5b.PNG">
 <img src="https://user-images.githubusercontent.com/34119701/86530843-2c70a200-bef7-11ea-909d-b20364efe04e.PNG">
+
+> 팀원
+* 
+
+16
+
+* 김보영, 신다정, 오지현, 박태진, 황현, 김병헌
